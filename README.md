@@ -10,6 +10,7 @@ I’m a computer science student at Wilfrid Laurier University, graduating **Win
 
 **More things I’ve built**
 
+- [CP363 Library Database](https://github.com/gurshan005/cp363-library-database) · A 12-table MySQL lending library with 17 reporting queries. Try the standalone Python catalogue to look up a title or see which branches have copies available.
 - [POSIX Process Tools](https://github.com/gurshan005/posix-c-tools) · Time a child process without changing its exit status, or count lines and words from a streaming input using bounded memory.
 - [Trackpad Pressure Lab](https://github.com/gurshan005/trackpad-pressure-lab) · A SwiftUI experiment that samples trackpad pressure and compares variation across sessions. Its scoring tests use synthetic inputs.
 - [Teacher Evidence Assistant](https://github.com/gurshan005/hackcanada) · A Hack Canada team project. We built a Next.js and PostgreSQL app that turns classroom notes into evidence cards and lets teachers approve the evidence behind a report.
@@ -22,4 +23,4 @@ I’m a computer science student at Wilfrid Laurier University, graduating **Win
 
 On a team study app, I built note and quiz features and added scheduled backups and recovery checks. On a separate team project, I contributed request handlers, routes and database helpers to a Node.js backend.
 
-My coursework also includes a 12-table library database, ARM assembly, and data structures in C, Java and Python.
+My coursework also includes ARM assembly and data structures in C, Java and Python.
