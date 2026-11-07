@@ -18,4 +18,8 @@ I’m a computer science student at Wilfrid Laurier University, graduating **Win
 - [Cube](https://github.com/gurshan005/Cube) · A Java Swing puzzle with interactive face rotations.
 - [Pygame Particles](https://github.com/gurshan005/pygame-particles) · A small graphics project that draws a rose and 45 moving particles from geometric primitives.
 
-My other coursework includes relational database design, ARM assembly, and data structures in C, Java and Python.
+**Work in shared repositories**
+
+On a team study app, I built note and quiz features and added scheduled backups and recovery checks. On a separate team project, I contributed request handlers, routes and database helpers to a Node.js backend.
+
+My coursework also includes a 12-table library database, ARM assembly, and data structures in C, Java and Python.
